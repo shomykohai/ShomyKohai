@@ -1,5 +1,5 @@
-- 👋 I’m Shomy
-- 🌱 I’m currently learning C++ and looking to learn Java and improve Python
-- 🎈 I'm bad at developing, but it's fun
-- 🎭 I like anime
-- 🎵 I'm a musician
+👋 Hey there! I'm **Shomy**<br>
+🔮 I'm the Owner of [**CryptoProject**](https://linktr.ee/cryptoxproject) and **CryptoBot**<br>
+🎵 I'm a Musician _and i also like anime_<br>
+🖥 I code and learn python on my own for fun, but I'm learning C++ too<br><br>
+[![TwitterShomy](https://img.shields.io/badge/-shomykohai-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/shomykohai)
