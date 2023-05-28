@@ -6,10 +6,10 @@ At the moment I'm contributing to [Kitsu](https://github.com/hummingbird-me).
 
 # My projects
 
-[askitsu](https://github.com/ShomyKohai/askitsu) -- An async api wrapper around Kitsu GraphQL API.<br>
-[kitsu-bot](https://github.com/ShomyKohai/kitsu-bot) -- An example discord bot written in python and built with discord.py and askitsu to fetch info about anime and manga.<br>
-[kitsu-dev-scripts] -- A collection of scripts that I want to build related to Kitsu.<br>
-Rayku -- My general purpose personal discord bot <br><br>
+[askitsu](https://github.com/ShomyKohai/askitsu) **——** An async api wrapper around Kitsu GraphQL API.<br>
+[kitsu-bot](https://github.com/ShomyKohai/kitsu-bot) **——** An example discord bot written in python and built with discord.py and askitsu to fetch info about anime and manga.<br>
+[kitsu-dev-scripts](https://github.com/ShomyKohai/kitsu-dev-scripts) **–—** A collection of scripts that I want to build related to Kitsu.<br>
+Rayku **——** My general purpose personal discord bot <br><br>
 
 ## Where you can find me
 
