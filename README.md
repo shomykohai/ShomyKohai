@@ -1,5 +1,4 @@
-🔮 Musician, gamer and dev.<br><br>
-
+🔮 Musician, gamer and dev.<br>
 🎮 In the process of making my dream game. <br><br>
 
 At the moment I'm contributing to [Kitsu](https://github.com/hummingbird-me).
@@ -12,7 +11,7 @@ At the moment I'm contributing to [Kitsu](https://github.com/hummingbird-me).
 [kitsu-dev-scripts] -- A collection of scripts that I want to build related to Kitsu.<br>
 Rayku -- My general purpose personal discord bot <br><br>
 
-# Where you can find me
+## Where you can find me
 
 [Twitter](https://twitter.com/shomykohai) • [Kitsu](https://kitsu.io/shomy) • [YouTube](https://youtube.com/@shomykohai)
 <br><br>
