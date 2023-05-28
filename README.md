@@ -19,7 +19,7 @@ At the moment I'm contributing to [Kitsu](https://github.com/hummingbird-me).
 [kitsu-dev-scripts](https://github.com/ShomyKohai/kitsu-dev-scripts) **–—** A collection of scripts that I want to build related to Kitsu.<br><br>
 Rayku **——** My personal general purpose discord bot.<br><br>
 
-## Where you can find me
+## 🔎 Where you can find me
 
 [Twitter](https://twitter.com/shomykohai) • [Kitsu](https://kitsu.io/shomy) • [YouTube](https://youtube.com/@shomykohai)
 <br><br>
