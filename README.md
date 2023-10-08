@@ -1,7 +1,7 @@
 🔮 Musician, gamer and dev.<br>
-🎮 In the process of making my dream game. <br><br>
+🎮 Laying the foundation to make my dream game. <br><br>
 
-At the moment I'm contributing to [Kitsu](https://github.com/hummingbird-me).
+Currently contributing to [Kitsu](https://github.com/hummingbird-me).
 <br><br>
 
 ## 🛠️ Tools & languages
