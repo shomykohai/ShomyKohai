@@ -7,15 +7,15 @@ Currently contributing to [Kitsu](https://github.com/hummingbird-me).
 ## 🛠️ Tools & languages
 
 * [Godot Engine](https://godotengine.org/) 
-* [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)<br><br>
+* [Aseprite](https://www.aseprite.org/)<br><br>
 * Python
 * C/C++
 * GDScript (For the Godot Engine)<br><br>
 
 # 📜 My projects
 
+[quest-system](https://github.com/ShomyKohai/quest-system) **——** A simple and extensible quest system for Godot 4.<br><br>
 [askitsu](https://github.com/ShomyKohai/askitsu) **——** An async api wrapper around Kitsu GraphQL API.<br><br>
-[quest-system](https://github.com/ShomyKohai/quest-system) **——** A simple and extendible quest-system for Godot 4.<br><br>
 [kitsu-bot](https://github.com/ShomyKohai/kitsu-bot) **——** An example discord bot written in python and built with discord.py and askitsu that fetches info about anime and manga.<br><br>
 [kitsu-dev-scripts](https://github.com/ShomyKohai/kitsu-dev-scripts) **–—** A collection of scripts that I want to build related to Kitsu.<br><br>
 Rayku **——** My personal general purpose discord bot.<br><br>
